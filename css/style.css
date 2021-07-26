@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    max-width: 1200px;
+    margin:  0 auto;
+}
+
+body{
+    font-family: sans-serif;
+}
+
+#form{
+    height: 50px;
+}
+
+main{
+    height: calc(100vh - 105.6px);
+}
+
+.animal{
+    color: dodgerblue;
+}
+
+.vegetable {
+    color: goldenrod;
+}
+
+.user{
+    color: purple
+}
